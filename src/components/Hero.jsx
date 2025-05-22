@@ -6,7 +6,7 @@ import dotimage from "../assets/Hero-Section-images/dot-image.png";
 const Hero = () => {
   return (
     <div>
-      <section className="h-[78vh] w-full bg-[#00AE47] flex justify-center items-center ">
+      <section className="h-[88vh] w-full bg-[#00AE47] flex justify-center items-center ">
         <div>
           <h2 className=" mb-[70px] text-[50px] text-center font-bold text-white">
             Green Protocol

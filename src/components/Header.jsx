@@ -2,7 +2,7 @@
 const Header = () => {
   return (
     <div>
-      <header className="w-full bg-[#008D38] ">
+      <header className="w-full bg-[#008D38] fixed top-0 ">
         <div className="flex items-center w-[90%] m-auto justify-between h-[64px] text-white">
         <h1 className=" text-2xl font-bold">Green Protocol</h1>
         
