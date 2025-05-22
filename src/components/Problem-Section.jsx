@@ -3,7 +3,7 @@ import problemImage from "../assets/Problem-section-images/problem-image.png";
 const Problem = () => {
   return (
     <div>
-      <section className=" w-[87%] m-auto my-[160px] h-[450px]">
+      <section className=" w-[90%] m-auto my-[160px] h-[450px]">
         <h2 className="text-[50px] font-bold text-[#00AE47] border-b-4 border-[#84D1A6] pb-[10px] ">
           Problem
         </h2>
