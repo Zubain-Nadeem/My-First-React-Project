@@ -14,7 +14,7 @@ const Footer = () => {
                     <img className="w-20 dashes" src={dotimage} alt="dashes" />
                     <img className="h-[160px] border border-[#00ae47]" src={image2} alt="Hero Image 2" id="hero-images"/>
                     <img className="w-20 dashes" src={dotimage} alt="dashes" />
-                    <img className="h-[160px] border border-[#00ae47]" src={image3} alt="Hero Image 3" id="hero-images"/>
+                    <img className="h-[160px] border border-[#00ae47]" src={image3 } alt="Hero Image 3" id="hero-images"/>
                 </div>
                 <h2 className="text-center text-[50px] font-bold text-white mb-[70px] mt-[70px] hero-heading">Thank You</h2>
             </div>
