@@ -5,7 +5,7 @@ import Solution from "./components/Solution.section"
 import SolutionTwo from "./components/Solution-2"
 import BusinessModel from "./components/BusinessModel"
 import Example from "./components/Example-section"
-
+import Profit from "./components/Profit"
 function App() {
   return(
     <div>
@@ -16,6 +16,7 @@ function App() {
      <SolutionTwo/>
     <BusinessModel/>
     <Example/>
+    <Profit />
     </div>
   )
 }

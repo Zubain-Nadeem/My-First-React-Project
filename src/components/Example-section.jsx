@@ -11,7 +11,7 @@ import image9 from "../assets/Example-image/nft-image.png";
 const Example = () => {
   return (
     <div>
-      <section className=" w-[90%] m-auto my-[160px] h-[450px]">
+      <section className=" w-[90%] m-auto my-[160px] ">
         <h2 className="text-[50px] font-bold text-[#00AE47] border-b-4 border-[#84D1A6] pb-[10px] ">
           Example
         </h2>
